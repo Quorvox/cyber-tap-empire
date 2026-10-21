@@ -2,6 +2,8 @@
 
 > Idle clicker game for the browser and Telegram Mini Apps. Vite + vanilla JS, offline income, prestige, achievements.
 
+**▶ Демо: https://quorvox.github.io/cyber-tap-empire/**
+
 ![screenshot](docs/screenshot.png)
 
 Тапаешь по нейро-ядру, покупаешь майнеры, копишь оффлайн-доход и делаешь престиж ради вечного буста. Работает в браузере, на телефоне и внутри Telegram как Mini App.
